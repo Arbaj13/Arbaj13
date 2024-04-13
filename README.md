@@ -1,10 +1,41 @@
-Hello and welcome to my GitHub profile!
+# Hi there, I'm Arbaj Pathan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-My name is Arbaj, and I'm a Cloud & DevOps Engineer with a passion for building scalable, secure, and highly available cloud infrastructure. I specialize in working with tools such as AWS, Kubernetes, and Terraform.
-Here's a possible rephrased version:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+DEVOPS+Professional..&hearts;++;Cloud+Computing,;Computer+Science;Active+Learner/+Problem+Solver,;Love+to+learn+new+stuffs..<3">
+  </a>
+</p>
 
-You'll discover some of my personal projects within this repository. As a developer, I'm constantly driven to learn and improve my skills. In my free time, I enjoy experimenting with new technologies and building projects that challenge me. I'm particularly interested in exploring the intersection of cloud computing and machine learning.
+<br>
 
-If you're interested in connecting with me, I'd love to hear from you. You can reach me through LinkedIn at linkedin.com/in/arrbaaj13. Let's chat about cloud computing, DevOps, or any exciting projects you're working on.
+## 🚀 About Me
 
-Thank you for visiting my profile, and I hope we can collaborate in the future!
+<p align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
+</p>
+
+- 🎓 I'm a Cloud & DevOps Engineer with a passion for building futuristic cloud infrastructures.
+- 💡 My brainchild: A cloud-powered time machine (still a work in progress 😉).
+- 🔧 Specializing in AWS, Kubernetes, and Terraform, I bring dreams to reality through code.
+- 🌱 I'm always seeking new challenges and learning opportunities to expand my horizons.
+- 💬 Let's connect and innovate! Feel free to reach out for a tech chat or project collaboration.
+
+<br><br>
+
+## 🛠️ Skills
+
+- AWS
+- Kubernetes
+- Terraform
+- DevOps
+- Cloud Computing
+- Python
+- Docker
+- CI/CD
+
+<br><br>
+
+📫 **Contact Me**:
+- Email: arrbaaj13@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arrbaaj13/)
+
